@@ -28,7 +28,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'projects',
     'rest_framework',
-    'whi'
+    'whitenoise'
 ]
 
 MIDDLEWARE = [
